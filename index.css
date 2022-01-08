@@ -144,7 +144,7 @@
     width: 25px;
     height: 3px;
     margin: 5px auto;
-    transition: all 0.3s ease;
+    transition: all 0.3s ease-in-out;
     background: #f8f9fa;
   }
   .navbar-item {
@@ -163,8 +163,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 50%;
-    height: 50px;
+    width: 80%;
+    height: 80px;
     margin: 0;
   }
   #mobile-menu {
