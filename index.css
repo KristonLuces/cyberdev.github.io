@@ -447,8 +447,9 @@
   flex-direction: column;
   justify-content: center;
   color: #100007;
-  background-image: url(./images/about-page-image.jpeg);
+  background-image:  url(./images/about-page-image.jpeg);
 }
+
 /*ABOUT IMAGE END*/
 
 /*MOBILE RESPONSIVE ABOUT*/
