@@ -139,6 +139,7 @@
   }
   #navbar-logo {
     padding-left: 25px;
+    visibility: visible;
   }
   .navbar-toggle .bar {
     width: 25px;
